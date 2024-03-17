@@ -1,0 +1,8 @@
+TODO List:
+
+    -> Think through data cleaning: PPU chopping, look at fat tails
+    -> Quantities with statistical relevance through proportional contribution to aggragate traded Quantities
+    -> Build networks:      
+                            - Aggregate, continent/region wise, subregion wise; 
+                            - country wise if it is intelligible;
+                            - build temporal network from time series data * [MOST IMPORTANT].
