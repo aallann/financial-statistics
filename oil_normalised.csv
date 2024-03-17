@@ -1,0 +1,1033 @@
+year,month,export_country,export_country_code,export_country_region,export_country_subregion,export_country_latitude,export_country_longitude,import_country,import_country_code,import_country_region,import_country_subregion,import_country_latitude,import_country_longitude,commodity,value,quantity,unit_price
+2015,1,Albania,ALB,Europe,Southern Europe,41.13180899,20.06882519,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,21207242,481201,-0.11384208698893263
+2015,1,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,19124088,339673,0.18482300412117017
+2015,1,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,53244936,855664,0.3295155032774135
+2015,1,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,107596271,1501330,0.560067914145417
+2015,1,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,50166967,933710,0.1219926703401407
+2015,1,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,296467655,5056127,0.2418175562466628
+2015,1,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,40262671,499264,0.7792866346755588
+2015,1,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,3183160566,61973320,0.0642318798078519
+2015,1,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,3723281,66233,0.18270881538004563
+2015,1,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2110812161,34141078,0.3197403406558618
+2015,1,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,92457007,1423317,0.39624213087242294
+2015,1,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,431219480,8194995,0.09491546420903768
+2015,1,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,25547686,474158,0.12569175749206013
+2015,1,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,185336607,3396295,0.1425450048218151
+2015,1,Congo,COG,Africa,Sub-Saharan Africa,-0.83949506,15.22629207,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,28176140,491534,0.2097664448091227
+2015,1,Congo,COG,Africa,Sub-Saharan Africa,-0.83949506,15.22629207,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,37536678,458076,0.8110375980999054
+2015,1,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,581868057,9603600,0.28951634882126936
+2015,1,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,421329177,5083518,0.8339247748715539
+2015,1,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,82934875,1458766,0.19828602386148445
+2015,1,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,626332139,8125513,0.6923028221379057
+2015,1,Libya,LBY,Africa,Northern Africa,27.04420762,18.02212777,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,22748842,285568,0.7552977564351996
+2015,1,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1122383548,19647922,0.20492932747851314
+2015,1,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,4030182,99253,-0.19849271488877196
+2015,1,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,293033437,3977309,0.6091292604748246
+2015,1,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,22720737,491222,-0.06055564641888677
+2015,1,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,73276789,994369,0.609506333885218
+2015,1,Peru,PER,Americas,Latin America and the Caribbean,-9.167216491,-74.37537796,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,6458892,156579,-0.18274348681689373
+2015,1,Peru,PER,Americas,Latin America and the Caribbean,-9.167216491,-74.37537796,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,17975711,355285,0.04547150187921939
+2015,1,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,6369065,153294,-0.17546645837488084
+2015,1,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1933178948,28471264,0.46805059649061365
+2015,1,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,28526452,511410,0.17208851944542378
+2015,1,United States,USA,Americas,Northern America,45.73643438,-112.404207,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,oil,2503,0,-1.1900998321206508
+2015,2,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,78692642,1584128,0.02301657036758072
+2015,2,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,107846698,1775230,0.2934797335278073
+2015,2,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,4649762,95134,0.0034858080333386777
+2015,2,Australia,AUS,Oceania,Australia and New Zealand,-25.40546125,134.2181189,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,26451219,524869,0.04060352968205807
+2015,2,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,278717194,4529448,0.31261682934261825
+2015,2,Cameroon,CMR,Africa,Sub-Saharan Africa,5.68036831,12.74068837,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,28687480,638778,-0.09336643495539046
+2015,2,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2471551442,60065483,-0.18524506026086224
+2015,2,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,641074,15562,-0.18409197796773158
+2015,2,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1364243973,27485409,0.02202809859709198
+2015,2,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,104925992,1902194,0.15696002797102368
+2015,2,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,24901194,476943,0.08490641142039242
+2015,2,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,231392288,4845270,-0.02385558010381354
+2015,2,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,127263980,2434984,0.0862449520789099
+2015,2,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,313143782,6527244,-0.01851817495945818
+2015,2,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,51586895,1072417,-0.015379954568650277
+2015,2,Equatorial Guinea,GNQ,Africa,Sub-Saharan Africa,1.412936146,10.61572825,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,52007819,1049793,0.019728046069794197
+2015,2,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,7605472,237671,-0.40863651393509454
+2015,2,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,448295967,4934497,1.0285080998341072
+2015,2,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,19056026,484147,-0.22889994671715808
+2015,2,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,414029327,6276079,0.42092161387071136
+2015,2,Malaysia,MYS,Asia,South-eastern Asia,2.745185714,140.4915783,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,11711849,240574,-0.0012270240620870585
+2015,2,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,862393199,16406775,0.09353271234496775
+2015,2,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2800790,100370,-0.5086478771848744
+2015,2,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,269282563,4292082,0.34204154189296243
+2015,2,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,24560827,458001,0.11948965054432985
+2015,2,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,16677,201,0.8360916724472165
+2015,2,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,30869739,591500,0.0843913275614115
+2015,2,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,4800,61,0.7315312781717007
+2015,2,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1332430932,24328853,0.14736290370709418
+2015,2,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,25802235,393849,0.40977570549842224
+2015,2,United States,USA,Americas,Northern America,45.73643438,-112.404207,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,oil,521,1,11.533099817087937
+2015,3,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,29732342,498664,0.2659616790338902
+2015,3,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,166964996,2762192,0.28604913529135073
+2015,3,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,94411029,1675947,0.18559171711339373
+2015,3,Bahamas,BHS,Americas,Latin America and the Caribbean,25.90317684,-78.61665744,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,3363,75,-0.09507435751314003
+2015,3,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,162586305,3131356,0.07787354543555898
+2015,3,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,50216014,993215,0.04458918682578656
+2015,3,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2281381358,61935948,-0.2905738381104
+2015,3,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,366402,7747,-0.035097400897983196
+2015,3,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1464466368,31028287,-0.03749556964917011
+2015,3,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,99175398,1908031,0.07923776648645356
+2015,3,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,531772796,10663629,0.0277106503701448
+2015,3,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,393287002,6951523,0.19151901233153573
+2015,3,Congo,COG,Africa,Sub-Saharan Africa,-0.83949506,15.22629207,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,53837942,880871,0.3024703342119308
+2015,3,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,322016354,6359517,0.04645225443548393
+2015,3,Gabon,GAB,Africa,Sub-Saharan Africa,-0.595400581,11.79997877,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,49999999,951187,0.09359770605449554
+2015,3,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,11750319,273263,-0.1400076046375591
+2015,3,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,283627533,5284514,0.12059610573524383
+2015,3,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,5133042,122096,-0.16342716427480003
+2015,3,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,285085027,5332684,0.11543113481620788
+2015,3,Libya,LBY,Africa,Northern Africa,27.04420762,18.02212777,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,15627914,197398,0.7432786612592387
+2015,3,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,931594393,20074988,-0.0568381871497435
+2015,3,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,3178978,95541,-0.37753811244046004
+2015,3,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,308636350,4992557,0.3195723795816812
+2015,3,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,23715764,400734,0.2551387510749322
+2015,3,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,61252449,1076005,0.2000697663748127
+2015,3,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,31415848,574225,0.1459581602654495
+2015,3,Panama,PAN,Americas,Latin America and the Caribbean,8.518057314,-80.07104511,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,8218,652,-0.8822937762900862
+2015,3,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,5133042,122096,-0.16342716427480003
+2015,3,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1392822766,29038657,-0.018773386605771592
+2015,3,United Arab Emirates,ARE,Asia,Western Asia,23.90525867,54.35072869,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,33710843,601913,0.1776116991561041
+2015,3,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,22695100,410696,0.15939195686020557
+2015,4,Albania,ALB,Europe,Southern Europe,41.13180899,20.06882519,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,12473343,228157,0.14498138520538184
+2015,4,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,39378,716,0.15297203168481502
+2015,4,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,11745745,200768,0.23861217350608724
+2015,4,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,125833366,2229085,0.18846693031799486
+2015,4,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,3151165,53292,0.2539019980380669
+2015,4,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,274597605,5573868,0.012991739393885302
+2015,4,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,113523296,1943906,0.23606049249640057
+2015,4,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2546653209,67683723,-0.2712507449788672
+2015,4,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,481999,10260,-0.04285160507959351
+2015,4,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1468830685,29460079,0.027477203391609282
+2015,4,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,117613716,2375009,0.01924827942194818
+2015,4,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,470311724,8643052,0.13875425936017646
+2015,4,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,258437268,4749540,0.13870809581875135
+2015,4,Congo,COG,Africa,Sub-Saharan Africa,-0.83949506,15.22629207,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,61557372,996670,0.3181986826178863
+2015,4,Congo,COG,Africa,Sub-Saharan Africa,-0.83949506,15.22629207,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,10139112,217430,-0.05132181922929051
+2015,4,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,182360309,3627129,0.03769538291446509
+2015,4,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,37013901,688756,0.12227557252426695
+2015,4,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,11422873,271005,-0.16076501382945232
+2015,4,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,166707154,3439377,-0.006423201420976464
+2015,4,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,35980688,779322,-0.06261386374528631
+2015,4,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,458173568,8483290,0.12883803261916263
+2015,4,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,837202566,17824014,-0.043046383575365624
+2015,4,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1780481,56121,-0.41533381860390944
+2015,4,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,182295267,3280248,0.16704854735536293
+2015,4,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,139321127,2411225,0.2209354066943096
+2015,4,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2020485568,40712578,0.021853139387402243
+2015,4,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,11670908,208262,0.17842672516031527
+2015,4,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,31506855,513239,0.30904648749671937
+2015,5,Albania,ALB,Europe,Southern Europe,41.13180899,20.06882519,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,10253966,161658,0.3589068468949785
+2015,5,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,173501002,3327597,0.083197654881971
+2015,5,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,80529799,1336440,0.2814188092735543
+2015,5,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,172000135,2840976,0.2883951048466937
+2015,5,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,39837680,696707,0.20627651410588205
+2015,5,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2369468693,58426625,-0.1997268283913081
+2015,5,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2573108,51998,0.018353807760811084
+2015,5,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1273063883,24048800,0.10265272501235673
+2015,5,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,42470465,952672,-0.10141484584705887
+2015,5,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,670396246,11523257,0.23064126916450572
+2015,5,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,222965444,3631825,0.30914052662594893
+2015,5,Congo,COG,Africa,Sub-Saharan Africa,-0.83949506,15.22629207,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,29863,640,-0.05060573685818657
+2015,5,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,180086952,3247497,0.16412916208476142
+2015,5,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,67131856,1097435,0.30375524089378003
+2015,5,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,13748787,261483,0.09394309682291803
+2015,5,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,462622295,9126908,0.0477315948715095
+2015,5,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,9763158,173968,0.18040182742482933
+2015,5,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,301052381,5281742,0.20184974036368708
+2015,5,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,725773738,13622852,0.11094370475541622
+2015,5,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,493236,12216,-0.2040829249687316
+2015,5,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,395058898,6486655,0.29720389621568555
+2015,5,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,87825352,1342102,0.4079598485783218
+2015,5,Peru,PER,Americas,Latin America and the Caribbean,-9.167216491,-74.37537796,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,21465184,359331,0.26870955202860086
+2015,5,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,9763158,173968,0.18040182742482933
+2015,5,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1874438355,34381315,0.14129632069572604
+2015,5,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,32656686,505975,0.3860651341884432
+2015,5,United States,USA,Americas,Northern America,45.73643438,-112.404207,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,oil,1130,0,-1.1900998321206508
+2015,6,Albania,ALB,Europe,Southern Europe,41.13180899,20.06882519,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,15579224,268561,0.22654667484099555
+2015,6,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,64862356,1060709,0.3032277424395262
+2015,6,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,45079526,748827,0.2800326204598541
+2015,6,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,124114343,1746748,0.5451033553740583
+2015,6,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,64607266,1040548,0.32617477952799706
+2015,6,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,3916884,65281,0.27515286754881385
+2015,6,Azerbaijan,AZE,Asia,Western Asia,40.42670781,47.80669468,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,60000000,1051781,0.2030074036992756
+2015,6,Bahamas,BHS,Americas,Latin America and the Caribbean,25.90317684,-78.61665744,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,11942343,199039,0.27514425755681976
+2015,6,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,230135396,3966484,0.22679081169408374
+2015,6,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,176105142,2780199,0.35677357308409535
+2015,6,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2656913041,59172683,-0.09358452731441066
+2015,6,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,3988779,70948,0.18286191136087132
+2015,6,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1487941043,26522908,0.17990848381238317
+2015,6,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,45000000,949761,-0.03303738041075916
+2015,6,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,66625342,1432495,-0.054291748266791215
+2015,6,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,517446418,8987002,0.2159773655140218
+2015,6,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,327822672,5428316,0.28469797486483533
+2015,6,Congo,COG,Africa,Sub-Saharan Africa,-0.83949506,15.22629207,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,60620392,1026485,0.25209771223061683
+2015,6,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,291140126,5119018,0.19880992142559178
+2015,6,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,145208313,2479097,0.24029712926673702
+2015,6,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,14330376,272544,0.09394320081699632
+2015,6,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,257768988,4718928,0.14386977315710534
+2015,6,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,106359110,1550328,0.48526626419619673
+2015,6,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,429228379,6997870,0.3077944973000672
+2015,6,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1022670102,18271468,0.1767497884840012
+2015,6,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,451657,10949,-0.1827207966444264
+2015,6,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,263987183,4146289,0.36472651369151454
+2015,6,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,9867343,154310,0.37148208950931094
+2015,6,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1960213,35213,0.16933645146998313
+2015,6,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,9167254,169492,0.1307355040400922
+2015,6,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2001362830,35473426,0.18768472943487405
+2015,6,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,13004362,213537,0.29711782210996207
+2015,6,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,32530603,507156,0.3763235762436525
+2015,7,Albania,ALB,Europe,Southern Europe,41.13180899,20.06882519,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,17649375,302578,0.23436129354376478
+2015,7,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,126647221,2056294,0.31397372146713054
+2015,7,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,123274267,2051866,0.27707562147732134
+2015,7,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,80116289,1318932,0.29329594384270874
+2015,7,Azerbaijan,AZE,Asia,Western Asia,40.42670781,47.80669468,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,120604812,2051986,0.2452205808637882
+2015,7,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,217683882,4027734,0.12974875351733658
+2015,7,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,127562854,1914322,0.4372010341269628
+2015,7,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,3009847405,64119654,-0.04376384462867316
+2015,7,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,3367277,60278,0.17410200025906547
+2015,7,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1628814692,27930550,0.23403401719455327
+2015,7,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,90000000,1909317,-0.03897323428651587
+2015,7,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,69654467,1422851,0.005396281585789819
+2015,7,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,595468376,10830516,0.1525667274167839
+2015,7,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,213561625,3740574,0.20415957924909686
+2015,7,Congo,COG,Africa,Sub-Saharan Africa,-0.83949506,15.22629207,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,19913332,382914,0.07989311186045682
+2015,7,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,412952114,7507412,0.15318484964693138
+2015,7,Gabon,GAB,Africa,Sub-Saharan Africa,-0.595400581,11.79997877,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,42000000,661691,0.3599750595108548
+2015,7,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,10625635,257529,-0.1825016605399037
+2015,7,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2262219,39057,0.2243722585116389
+2015,7,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,313370334,5539520,0.19137941285768237
+2015,7,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,21195778,362496,0.2378230800808298
+2015,7,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,366956925,6026360,0.2969264171495777
+2015,7,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,964303891,18010981,0.1173805155629771
+2015,7,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,341328,8122,-0.16381585238336488
+2015,7,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,162009961,2720185,0.2643605458289712
+2015,7,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,43717790,753287,0.2271824104517074
+2015,7,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,181231399,2892216,0.3401464654193507
+2015,7,Peru,PER,Americas,Latin America and the Caribbean,-9.167216491,-74.37537796,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,17915795,325505,0.15401706015368036
+2015,7,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2576374,42832,0.27882364720482017
+2015,7,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2333077442,38892988,0.27482878769989827
+2015,8,Albania,ALB,Europe,Southern Europe,41.13180899,20.06882519,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,23132020,445532,0.077824322705395
+2015,8,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,54513056,993048,0.15046834869094664
+2015,8,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,99171361,1682597,0.24924476502660245
+2015,8,Australia,AUS,Oceania,Australia and New Zealand,-25.40546125,134.2181189,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,40579286,652505,0.3286252871868971
+2015,8,Azerbaijan,AZE,Asia,Western Asia,40.42670781,47.80669468,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,57368615,998782,0.21259202899148602
+2015,8,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,339871401,6773145,0.03531425165170388
+2015,8,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,222333640,4094307,0.13602190272569273
+2015,8,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,oil,626,0,-1.1900998321206508
+2015,8,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2746930344,63602603,-0.13539393163708904
+2015,8,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1641854945,29992675,0.14673638424203594
+2015,8,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,25702046,477201,0.12520062246490404
+2015,8,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,54240751,1018965,0.10984537138660073
+2015,8,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,396785525,8411856,-0.03817906036076079
+2015,8,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,94800424,1728080,0.14959244746922712
+2015,8,Congo,COG,Africa,Sub-Saharan Africa,-0.83949506,15.22629207,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,35224621,757252,-0.054135961750853785
+2015,8,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,415378874,9350291,-0.10522934125765236
+2015,8,Egypt,EGY,Africa,Northern Africa,26.55281781,29.78562814,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,23464133,542212,-0.13329690998599616
+2015,8,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,8927583,268499,-0.37811139890523815
+2015,8,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,119071728,2013032,0.2543970087294947
+2015,8,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,168955290,2964586,0.20166660622439694
+2015,8,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,805612981,17364178,-0.057097392223953984
+2015,8,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,45138,1244,-0.3040042921221672
+2015,8,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,211304629,3791032,0.1710633066888139
+2015,8,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,10171345,207786,0.005320728893756259
+2015,8,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,149843426,2156607,0.5066792531834267
+2015,8,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,24952543,499050,0.030938706724891664
+2015,8,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,55000000,1051181,0.08764403704310389
+2015,8,Peru,PER,Americas,Latin America and the Caribbean,-9.167216491,-74.37537796,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,19354587,423679,-0.07450732435452431
+2015,8,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1606910913,29005649,0.1628068186036202
+2015,8,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,27373437,502962,0.13898522476257777
+2015,8,United States,USA,Americas,Northern America,45.73643438,-112.404207,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,oil,511,0,-1.1900998321206508
+2015,9,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,83186779,1704778,0.0015402294172104267
+2015,9,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,288876042,5071911,0.20080853509556038
+2015,9,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,345828,7685,-0.09115750778153835
+2015,9,Australia,AUS,Oceania,Australia and New Zealand,-25.40546125,134.2181189,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,34897647,650590,0.11982803246611959
+2015,9,Bahamas,BHS,Americas,Latin America and the Caribbean,25.90317684,-78.61665744,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,385352,8563,-0.09111855880288663
+2015,9,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,174183187,4069633,-0.14487527436296083
+2015,9,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,165513277,3241785,0.05673018059018124
+2015,9,Cameroon,CMR,Africa,Sub-Saharan Africa,5.68036831,12.74068837,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,28487959,649459,-0.1189056262280309
+2015,9,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2573285616,72509652,-0.32343576540159047
+2015,9,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1347317976,28780809,-0.046890593092650014
+2015,9,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,82112022,1963982,-0.16909484749239634
+2015,9,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,46000000,954649,-0.013380933455552841
+2015,9,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,294039691,6802948,-0.13457750283452896
+2015,9,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,84748293,2016451,-0.16373466352831717
+2015,9,Congo,COG,Africa,Sub-Saharan Africa,-0.83949506,15.22629207,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1653021,35535,-0.05409371518452581
+2015,9,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,372488738,8533232,-0.12409735943419425
+2015,9,Equatorial Guinea,GNQ,Africa,Sub-Saharan Africa,1.412936146,10.61572825,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,31854245,561839,0.19446741022967456
+2015,9,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,9770173,271394,-0.31095458897013317
+2015,9,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,45527392,1000602,-0.07895665216952683
+2015,9,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,300720776,5586710,0.1244163112149135
+2015,9,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,253539035,5288821,-0.01940262249760879
+2015,9,Libya,LBY,Africa,Northern Africa,27.04420762,18.02212777,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,7335405,148866,0.01323696312115221
+2015,9,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,568562156,13820611,-0.18546247151821926
+2015,9,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,593800,18799,-0.41872748794911363
+2015,9,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,174840441,3703382,-0.03717232578247486
+2015,9,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,18057195,422190,-0.14561782151644742
+2015,9,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,80977254,1632388,0.021330018051202607
+2015,9,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,24968262,499365,0.030937189387059794
+2015,9,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1643544618,34178406,-0.01577481498822112
+2015,10,Albania,ALB,Europe,Southern Europe,41.13180899,20.06882519,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,13656158,253361,0.1261774540868541
+2015,10,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,35396757,704990,0.03603755893400127
+2015,10,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,197433525,4126227,-0.021606060695425595
+2015,10,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,22537040,522998,-0.1377613157400547
+2015,10,Australia,AUS,Oceania,Australia and New Zealand,-25.40546125,134.2181189,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,26953912,620486,-0.12926337138657082
+2015,10,Azerbaijan,AZE,Asia,Western Asia,40.42670781,47.80669468,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,90000000,1767275,0.05354678903161863
+2015,10,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,150811150,3436254,-0.11831696098412718
+2015,10,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,49848675,1007858,0.017749852949486264
+2015,10,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1810167783,57510579,-0.4214479234345485
+2015,10,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,11018903,225363,0.003927761853401695
+2015,10,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1182434818,26907512,-0.11694524659494528
+2015,10,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,4364147,81028,0.12519426207731968
+2015,10,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,82642238,1973125,-0.16726363431006375
+2015,10,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,190063964,4534698,-0.16654754722386647
+2015,10,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,49863118,1053491,-0.034234545677828236
+2015,10,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,297855934,6851747,-0.12849336096766406
+2015,10,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,20948355,465519,-0.09116704092221234
+2015,10,Equatorial Guinea,GNQ,Africa,Sub-Saharan Africa,1.412936146,10.61572825,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,43662686,784782,0.16858908891307384
+2015,10,Gabon,GAB,Africa,Sub-Saharan Africa,-0.595400581,11.79997877,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,30591820,644872,-0.03161483594431351
+2015,10,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,9793512,272042,-0.3109535991619
+2015,10,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,66310935,1492305,-0.10495882338988823
+2015,10,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,328959491,7870130,-0.1693504314377379
+2015,10,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,250675815,5865368,-0.1463995786861656
+2015,10,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,673768041,16173171,-0.1727417313823163
+2015,10,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,164236,5672,-0.48298368302463635
+2015,10,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,183833271,3071645,0.27144355453133645
+2015,10,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,12163688,247763,0.0088125339627928
+2015,10,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,58254509,1208574,-0.012995608920148942
+2015,10,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1192536633,27110639,-0.11588636296144578
+2015,10,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,10895573,230081,-0.03364696469122433
+2015,10,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,13593345,260552,0.08396212203593785
+2015,11,Albania,ALB,Europe,Southern Europe,41.13180899,20.06882519,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,15321963,284689,0.12422387364866239
+2015,11,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,46542615,951861,0.003986881792043712
+2015,11,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,241612359,5145036,-0.04329544278559659
+2015,11,Australia,AUS,Oceania,Australia and New Zealand,-25.40546125,134.2181189,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,51195732,1085780,-0.0386353720764181
+2015,11,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,153091180,3782524,-0.20171266732884896
+2015,11,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,48829019,966146,0.04412380008289211
+2015,11,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,oil,2012,0,-1.1900998321206508
+2015,11,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1846000896,60659434,-0.44692298268281755
+2015,11,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1113799244,24727298,-0.09010948313366786
+2015,11,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,3728064,60223,0.32164882695069524
+2015,11,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,87130872,1949853,-0.09883839552900496
+2015,11,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,383666716,8623892,-0.10365060709732511
+2015,11,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,21549216,498559,-0.13456265900916348
+2015,11,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,225624142,5222298,-0.1350267668837981
+2015,11,Gabon,GAB,Africa,Sub-Saharan Africa,-0.595400581,11.79997877,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,31748149,649106,0.0043320992486792186
+2015,11,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,9809784,272494,-0.3109535991619
+2015,11,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,63228557,1708922,-0.28655512021117324
+2015,11,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,416114304,10042529,-0.17822179588248901
+2015,11,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,169260006,4026824,-0.1636202330241671
+2015,11,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,633383237,16936306,-0.27681447995115954
+2015,11,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,92293323,1994707,-0.06017438382875707
+2015,11,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,26351788,533787,0.01549315783849497
+2015,11,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,160146679,3366165,-0.02827365931219203
+2015,11,Peru,PER,Americas,Latin America and the Caribbean,-9.167216491,-74.37537796,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,14999929,352328,-0.15041750052128244
+2015,11,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1369312902,31405666,-0.1253359491966135
+2015,11,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,28433155,541619,0.09190534891898676
+2015,12,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,24907158,482828,0.06966751368183495
+2015,12,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,167943811,3858186,-0.12708466277691707
+2015,12,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,20880716,481843,-0.13182504062669984
+2015,12,Australia,AUS,Oceania,Australia and New Zealand,-25.40546125,134.2181189,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,4578229,101160,-0.08488345900092062
+2015,12,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,149990309,4304615,-0.3391822372339936
+2015,12,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,64288826,1418249,-0.0831151081711306
+2015,12,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2129259771,71269635,-0.46050334709380625
+2015,12,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1247308106,28591397,-0.12473835805283345
+2015,12,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,109922633,2812929,-0.23579533394595995
+2015,12,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,336372417,8812906,-0.2580055223134075
+2015,12,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,121754504,3095932,-0.22969963296539053
+2015,12,Congo,COG,Africa,Sub-Saharan Africa,-0.83949506,15.22629207,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1827188,49991,-0.2975139182631377
+2015,12,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,251030498,6511518,-0.24863768989795484
+2015,12,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,6731710,200766,-0.3712696340195513
+2015,12,Gabon,GAB,Africa,Sub-Saharan Africa,-0.595400581,11.79997877,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,28672197,661593,-0.13175135506933522
+2015,12,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,6090683,259178,-0.616212707828133
+2015,12,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,226413115,6160944,-0.2926443035491165
+2015,12,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,417663380,10455732,-0.21459241780416966
+2015,12,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,332634661,8212915,-0.20102581756329038
+2015,12,Libya,LBY,Africa,Northern Africa,27.04420762,18.02212777,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,9329640,189337,0.01323922599343503
+2015,12,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,688842370,20661376,-0.3759220817995283
+2015,12,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,100264435,2192702,-0.07342708556326381
+2015,12,Netherlands,NLD,Europe,Western Europe,52.26998137,5.675062933,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,930159,10156,1.046524880426608
+2015,12,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,12717527,270446,-0.04173277726792581
+2015,12,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,134097205,2683247,0.030343705814786685
+2015,12,Peru,PER,Americas,Latin America and the Caribbean,-9.167216491,-74.37537796,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,9918346,283381,-0.33537337991579685
+2015,12,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,23119467,523775,-0.11216707255658065
+2015,12,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1685302082,39932957,-0.15946478771927267
+2015,12,United States,USA,Americas,Northern America,45.73643438,-112.404207,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,oil,3429,0,-1.1900998321206508
+2016,1,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,88036250,2299585,-0.2551879343541356
+2016,1,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,98159206,2333337,-0.1627645871579167
+2016,1,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,49457478,1175578,-0.16270084022663278
+2016,1,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,10224,313,-0.3924080424711773
+2016,1,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,138191788,4158853,-0.3786395178489413
+2016,1,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,36622815,1005492,-0.3006289769573401
+2016,1,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1855392498,69053028,-0.5339369074008308
+2016,1,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1070987172,27975698,-0.25520672734753097
+2016,1,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,59207977,1762986,-0.36995608577435796
+2016,1,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,292142320,9766122,-0.45958178856653276
+2016,1,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,77162645,2384779,-0.39993520101549757
+2016,1,Congo,COG,Africa,Sub-Saharan Africa,-0.83949506,15.22629207,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,7331603,200591,-0.29752196097999967
+2016,1,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,300521653,10315762,-0.47866835915969697
+2016,1,Gabon,GAB,Africa,Sub-Saharan Africa,-0.595400581,11.79997877,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,20300,468,-0.13082463452671442
+2016,1,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,5404780,270239,-0.7016852582546782
+2016,1,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,53788778,1189765,-0.08604890249835548
+2016,1,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,147896703,3861021,-0.2546619625528951
+2016,1,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,183759505,4882154,-0.27092747163799225
+2016,1,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,492487474,16754588,-0.47227239360637857
+2016,1,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,119703340,2845082,-0.16262758709513586
+2016,1,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,129726383,3062909,-0.15578480558674204
+2016,1,Peru,PER,Americas,Latin America and the Caribbean,-9.167216491,-74.37537796,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,11134364,465943,-0.606532137324439
+2016,1,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1422338352,37495385,-0.26373145360512185
+2016,1,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,21378755,526841,-0.1991276495162187
+2016,1,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2487,122,-0.6922772726105385
+2016,1,United States,USA,Americas,Northern America,45.73643438,-112.404207,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,oil,400,0,-1.1900998321206508
+2016,2,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,31211517,1064149,-0.4738392438352903
+2016,2,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,46850182,1446011,-0.39887792312157455
+2016,2,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,92172921,2674447,-0.3484567198773168
+2016,2,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,17678884,646631,-0.5224373944022332
+2016,2,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1595686,49171,-0.3976039527263957
+2016,2,Azerbaijan,AZE,Asia,Western Asia,40.42670781,47.80669468,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,29510665,1051120,-0.5044769312874218
+2016,2,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,50981553,1895127,-0.53314825358474
+2016,2,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,36351278,1092483,-0.37752453557811855
+2016,2,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1427398598,61215688,-0.6206687755105733
+2016,2,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,992847259,30480408,-0.394636282357006
+2016,2,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,22162322,985918,-0.6411494602078512
+2016,2,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,45295985,2124341,-0.6693920170473059
+2016,2,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,312090459,11867513,-0.547886385461183
+2016,2,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,80686994,2968396,-0.5262951411185693
+2016,2,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,240644285,9001397,-0.5372335275261714
+2016,2,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,4764620,272264,-0.7627370799879247
+2016,2,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,50138239,1977915,-0.5710578956477668
+2016,2,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,126948215,3870872,-0.3892033114882083
+2016,2,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,317404942,9663986,-0.38802292777764075
+2016,2,Malaysia,MYS,Asia,South-eastern Asia,2.745185714,140.4915783,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,27471325,724264,-0.2638218800611365
+2016,2,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,377572119,14551382,-0.5564427485355408
+2016,2,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,12616312,450663,-0.506441461093946
+2016,2,Netherlands,NLD,Europe,Western Europe,52.26998137,5.675062933,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,9875944,536316,-0.7404064628864484
+2016,2,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,10294340,297775,-0.3458540619365459
+2016,2,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,246099792,6858817,-0.31386472453442643
+2016,2,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,30000000,1050618,-0.4927751519810007
+2016,2,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,784477583,23160873,-0.3629499133581906
+2016,3,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,20882292,604233,-0.34611946787996795
+2016,3,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,114092383,3432745,-0.3784406115217083
+2016,3,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,52585920,1609081,-0.39201292076720967
+2016,3,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,30235959,924960,-0.3918121747941707
+2016,3,Azerbaijan,AZE,Asia,Western Asia,40.42670781,47.80669468,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,30000000,1051013,-0.4930372260454082
+2016,3,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,141701989,4510289,-0.42286167317567247
+2016,3,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,32357732,1005833,-0.40448294114325456
+2016,3,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1428600003,62197557,-0.6291862726940545
+2016,3,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,841924810,27461747,-0.44140684601284785
+2016,3,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,64160682,2584719,-0.5839021727623186
+2016,3,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,393522587,13273048,-0.46606807002561373
+2016,3,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,44111142,1367761,-0.4025161598755944
+2016,3,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,227922113,7712221,-0.46838502587010983
+2016,3,Equatorial Guinea,GNQ,Africa,Sub-Saharan Africa,1.412936146,10.61572825,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,19999999,650011,-0.4387055488773765
+2016,3,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,104039606,3402481,-0.4433732548131847
+2016,3,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,251628887,8643098,-0.47913244741395195
+2016,3,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,151301353,5283201,-0.49073418380592543
+2016,3,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,483906757,17506574,-0.5150759453481167
+2016,3,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,16686713,569474,-0.4745242466576809
+2016,3,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,47145238,1125072,-0.16676882185731393
+2016,3,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,249184813,6761065,-0.2900530624529499
+2016,3,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,82025854,2073932,-0.22423830610623746
+2016,3,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1207683529,41629587,-0.4816490898859404
+2016,3,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,35283175,996774,-0.32567033846092747
+2016,3,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,20402713,627244,-0.39575326399048616
+2016,3,United States,USA,Americas,Northern America,45.73643438,-112.404207,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,oil,2,0,-1.1900998321206508
+2016,4,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,48488431,1247630,-0.24100208822644262
+2016,4,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,37300945,1048595,-0.3213981333249727
+2016,4,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,147664233,4556923,-0.3987614285976958
+2016,4,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,118647874,3232008,-0.2936083812979175
+2016,4,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,39665687,986216,-0.20789615598854325
+2016,4,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1435727906,62652894,-0.6304844746908127
+2016,4,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,10628731,260893,-0.1952040085261018
+2016,4,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,842591635,24621603,-0.35438244533726765
+2016,4,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,103574626,3355578,-0.43631975576543724
+2016,4,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,321482011,9745251,-0.3844946229365009
+2016,4,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,107355718,2913351,-0.2902065947619267
+2016,4,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,223531977,6358664,-0.33161544536996385
+2016,4,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,6763510,260135,-0.5551608860948863
+2016,4,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,52579579,1966658,-0.5371995141360992
+2016,4,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,252609253,9168581,-0.5172692127554694
+2016,4,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,191469153,6196340,-0.4354904597252229
+2016,4,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,598834809,20814193,-0.48750317594991643
+2016,4,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,18406943,511446,-0.3111977367361676
+2016,4,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,59310758,1367786,-0.13115352786553233
+2016,4,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,277916253,6944503,-0.21279196516874044
+2016,4,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,53150049,1250593,-0.15222186009895533
+2016,4,Oman,OMN,Asia,Western Asia,20.53707855,56.1036955,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,73358215,2043788,-0.31356025661689496
+2016,4,Peru,PER,Americas,Latin America and the Caribbean,-9.167216491,-74.37537796,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,11569408,360417,-0.40619293008750923
+2016,4,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,983246798,31589709,-0.4299914280668938
+2016,4,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,8101289,201960,-0.2105029776197368
+2016,4,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,23648193,513261,-0.06492939185777512
+2016,4,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,53602,1710,-0.424602814917029
+2016,4,United States,USA,Americas,Northern America,45.73643438,-112.404207,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,oil,400,0,-1.1900998321206508
+2016,5,Albania,ALB,Europe,Southern Europe,41.13180899,20.06882519,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,8730245,291494,-0.4586990328896995
+2016,5,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,36730033,822149,-0.09908814106598111
+2016,5,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,180806580,4966470,-0.30105219141342915
+2016,5,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,20787742,478120,-0.1283333142416892
+2016,5,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,69607141,1873778,-0.2829181353149547
+2016,5,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1621551474,59180616,-0.5209707948566168
+2016,5,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,945981354,23982268,-0.22682338158005597
+2016,5,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,62266247,1902971,-0.3910402958813073
+2016,5,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,371817461,9803404,-0.2638854948851206
+2016,5,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,123625566,2987701,-0.17961504571080464
+2016,5,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,237188168,6200038,-0.25586234841675465
+2016,5,Egypt,EGY,Africa,Northern Africa,26.55281781,29.78562814,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,26514452,717965,-0.28824216671427405
+2016,5,Equatorial Guinea,GNQ,Africa,Sub-Saharan Africa,1.412936146,10.61572825,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,19222628,384533,0.03068117538769237
+2016,5,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,16480474,541901,-0.4474084839021347
+2016,5,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,234994807,6966428,-0.36632839199651906
+2016,5,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,328372925,9091680,-0.3080729557182808
+2016,5,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,170173825,5056702,-0.3682659943691124
+2016,5,Libya,LBY,Africa,Northern Africa,27.04420762,18.02212777,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,18303935,389445,-0.042324329405830766
+2016,5,Malaysia,MYS,Asia,South-eastern Asia,2.745185714,140.4915783,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,28021189,596196,-0.04232652563646774
+2016,5,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,648640957,18521596,-0.3348665773698947
+2016,5,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,166586,2994,0.16866820732552354
+2016,5,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,18483227,412945,-0.09703932298831605
+2016,5,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,243403977,5446240,-0.09868585014649968
+2016,5,Oman,OMN,Asia,Western Asia,20.53707855,56.1036955,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,87338715,2051529,-0.1504483997322558
+2016,5,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1350171485,37667027,-0.3147408205211125
+2016,5,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,14147000,300993,-0.0422988904904609
+2016,5,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2178,55,-0.22303897586602492
+2016,6,Albania,ALB,Europe,Southern Europe,41.13180899,20.06882519,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,20103672,474703,-0.15588197453166497
+2016,6,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,61250053,1253753,0.0029349416850046857
+2016,6,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,115716176,2425659,-0.025107828082987373
+2016,6,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,59765493,1567693,-0.2591032085634629
+2016,6,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,21460124,481428,-0.10152196392738688
+2016,6,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,15424985,358026,-0.13797128898914351
+2016,6,Bahamas,BHS,Americas,Latin America and the Caribbean,25.90317684,-78.61665744,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1436034,33952,-0.15720054170028055
+2016,6,Belgium,BEL,Europe,Western Europe,50.64206011,4.658786236,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,10000,31,6.687554585072456
+2016,6,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,93203131,2272376,-0.18846613438886206
+2016,6,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,164459017,3670334,-0.09586452946874295
+2016,6,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1987829505,62423888,-0.41244488967074894
+2016,6,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1195390547,27530679,-0.12974428364976684
+2016,6,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,60856550,1428753,-0.14991913135560392
+2016,6,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,74256280,1860635,-0.21549037478290456
+2016,6,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,581904275,13857656,-0.16463589902506537
+2016,6,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,206664856,5031524,-0.18704263139664953
+2016,6,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,313850340,7208340,-0.12682395952869036
+2016,6,Egypt,EGY,Africa,Northern Africa,26.55281781,29.78562814,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,8399676,227449,-0.28824399319582866
+2016,6,Equatorial Guinea,GNQ,Africa,Sub-Saharan Africa,1.412936146,10.61572825,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,11666449,234586,0.024393726076364933
+2016,6,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,210748443,5552325,-0.2631673220391784
+2016,6,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,250932523,6270710,-0.2128651865210426
+2016,6,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,368066681,9203473,-0.21346236518356143
+2016,6,Libya,LBY,Africa,Northern Africa,27.04420762,18.02212777,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,64126772,1364399,-0.04232524346365287
+2016,6,Malaysia,MYS,Asia,South-eastern Asia,2.745185714,140.4915783,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,4622369,98348,-0.04232235551396741
+2016,6,Mauritania,MRT,Africa,Sub-Saharan Africa,20.25780429,-10.33010275,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,22618394,511496,-0.11021325753916114
+2016,6,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,689780447,17288649,-0.215764523784571
+2016,6,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,56363,1013,0.1686617980278101
+2016,6,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,17115517,311191,0.1530411877113512
+2016,6,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,411181586,8177506,0.037823932825072175
+2016,6,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,45000001,1049550,-0.1430484142566452
+2016,6,Oman,OMN,Asia,Western Asia,20.53707855,56.1036955,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,94517499,1944716,-0.0031984028897888515
+2016,6,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1370254877,33267579,-0.18423695908482557
+2016,6,United Arab Emirates,ARE,Asia,Western Asia,23.90525867,54.35072869,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,24681207,525132,-0.04232544402367118
+2016,6,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,oil,9145,0,-1.1900998321206508
+2016,6,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,14632510,288601,0.04806828514844799
+2016,6,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,7470286,229561,-0.3954098470302083
+2016,6,United States,USA,Americas,Northern America,45.73643438,-112.404207,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,oil,350,0,-1.1900998321206508
+2016,7,Albania,ALB,Europe,Southern Europe,41.13180899,20.06882519,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,19268139,480982,-0.21180543660529594
+2016,7,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,121154236,2445523,0.019733290446535958
+2016,7,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,23596760,479081,0.012724061961730752
+2016,7,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,100778084,2269112,-0.1055018715111878
+2016,7,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,251540173,5629614,-0.09894254845992347
+2016,7,Australia,AUS,Oceania,Australia and New Zealand,-25.40546125,134.2181189,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,31225274,656131,-0.027917364400162348
+2016,7,Azerbaijan,AZE,Asia,Western Asia,40.42670781,47.80669468,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,28460312,563704,0.04285497728043799
+2016,7,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,67110076,1608061,-0.17093640574400715
+2016,7,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,98740036,2091404,-0.03714056154330664
+2016,7,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1956552965,57195074,-0.3547053516041291
+2016,7,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,877140882,19376967,-0.08464202207624753
+2016,7,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,89519852,2001641,-0.09792595161148504
+2016,7,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,435634074,10418742,-0.16900711951577196
+2016,7,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,24072520,543030,-0.10752892464959903
+2016,7,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,172243646,3836742,-0.09377504715711345
+2016,7,Denmark,DNK,Europe,Northern Europe,56.06439188,9.942213684,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,23403841,504600,-0.057442575992828857
+2016,7,Denmark,DNK,Europe,Northern Europe,56.06439188,9.942213684,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,31386137,627685,0.03101001821463183
+2016,7,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,264045658,6103864,-0.1336891098860928
+2016,7,Egypt,EGY,Africa,Northern Africa,26.55281781,29.78562814,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,70333871,1396755,0.03961073389877616
+2016,7,Equatorial Guinea,GNQ,Africa,Sub-Saharan Africa,1.412936146,10.61572825,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,15016806,332054,-0.08569709893297935
+2016,7,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,243219087,6046057,-0.20770960049385728
+2016,7,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,410768774,9153815,-0.09424277301109903
+2016,7,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,265794604,6233310,-0.148775413404632
+2016,7,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,762728056,18801755,-0.19942768889024035
+2016,7,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,101376,1822,0.16866844011416932
+2016,7,Netherlands,NLD,Europe,Western Europe,52.26998137,5.675062933,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,18392378,515177,-0.31825331497684495
+2016,7,Netherlands,NLD,Europe,Western Europe,52.26998137,5.675062933,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,705045,10601,0.43405946054671396
+2016,7,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,50248226,1006583,0.028973303890541945
+2016,7,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,263732482,5387413,0.005379220725727513
+2016,7,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,95000000,2047368,-0.05695267642447402
+2016,7,Oman,OMN,Asia,Western Asia,20.53707855,56.1036955,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,61294838,1374835,-0.10134037436921776
+2016,7,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1329249595,29782965,-0.10017330112643696
+2016,7,United Arab Emirates,ARE,Asia,Western Asia,23.90525867,54.35072869,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,38728408,997363,-0.24182328236757572
+2016,7,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,19225524,390639,0.011780434802266562
+2016,7,United States,USA,Americas,Northern America,45.73643438,-112.404207,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,oil,99,0,-1.1900998321206508
+2016,8,Albania,ALB,Europe,Southern Europe,41.13180899,20.06882519,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,24640834,648443,-0.2621121417753028
+2016,8,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,200926,3944,0.054007503941651686
+2016,8,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,10882308,255556,-0.15019510977050732
+2016,8,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,246821509,5263977,-0.04504142723788503
+2016,8,Australia,AUS,Oceania,Australia and New Zealand,-25.40546125,134.2181189,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,31277861,657236,-0.02791736252417982
+2016,8,Azerbaijan,AZE,Asia,Western Asia,40.42670781,47.80669468,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,45325054,1051724,-0.13766511850461657
+2016,8,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,130294584,3089368,-0.16015173721249842
+2016,8,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,150269642,3184368,-0.037690890025668985
+2016,8,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2391028103,72892018,-0.38904300582431345
+2016,8,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1027881226,23082370,-0.10262014311639449
+2016,8,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,88031615,1904063,-0.061042554946566574
+2016,8,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,478583027,11970497,-0.2137538826095641
+2016,8,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,17818526,497030,-0.31461668389924025
+2016,8,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,205238708,4962628,-0.18013519132324685
+2016,8,Congo,COG,Africa,Sub-Saharan Africa,-0.83949506,15.22629207,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,52030169,946003,0.1530403492693416
+2016,8,Denmark,DNK,Europe,Northern Europe,56.06439188,9.942213684,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,24069691,508670,-0.03453847870383469
+2016,8,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,333756134,8324328,-0.21097358936108837
+2016,8,Egypt,EGY,Africa,Northern Africa,26.55281781,29.78562814,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,22788848,498110,-0.07283602645358694
+2016,8,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,13826566,535759,-0.5598634440320003
+2016,8,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,350290089,8919719,-0.23106298046417692
+2016,8,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,267717367,6110560,-0.12017282281360518
+2016,8,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,262994267,6045686,-0.12777015732445035
+2016,8,Libya,LBY,Africa,Northern Africa,27.04420762,18.02212777,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,25799350,522127,0.016577713406498953
+2016,8,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,734212170,19204505,-0.2564649268269162
+2016,8,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,22950742,533738,-0.14000813227560693
+2016,8,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,41319741,799477,0.07204802784075892
+2016,8,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,245277733,4963927,0.016578060624415945
+2016,8,Oman,OMN,Asia,Western Asia,20.53707855,56.1036955,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,63414281,1475986,-0.1408873385186775
+2016,8,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,23586695,509652,-0.05990848711153995
+2016,8,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1583077565,36087425,-0.11881509192894048
+2016,8,United Arab Emirates,ARE,Asia,Western Asia,23.90525867,54.35072869,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,22901109,500734,-0.07321587843534172
+2016,8,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,23424365,514482,-0.07822407654941559
+2016,8,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,69592490,1513782,-0.06741551074472077
+2016,9,Albania,ALB,Europe,Southern Europe,41.13180899,20.06882519,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,12559520,313988,-0.2132706843887055
+2016,9,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,18858366,425324,-0.10731343942960272
+2016,9,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,62852965,1302845,-0.011974110461977213
+2016,9,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,149236397,3291117,-0.08273672035573759
+2016,9,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,11145043,251922,-0.1097254647444508
+2016,9,Australia,AUS,Oceania,Australia and New Zealand,-25.40546125,134.2181189,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,6176677,160434,-0.24990664836198545
+2016,9,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,143804054,3434153,-0.16748966078277921
+2016,9,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,40000000,1008971,-0.22195590357171802
+2016,9,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2124968363,65828388,-0.4017883231913129
+2016,9,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1212861882,28005934,-0.13250357545713157
+2016,9,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,85000001,1900674,-0.0979809504233621
+2016,9,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,391304714,9755085,-0.21051367197926651
+2016,9,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,140395004,3098620,-0.08362394847613279
+2016,9,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,320715160,7518131,-0.1483385339751594
+2016,9,Egypt,EGY,Africa,Northern Africa,26.55281781,29.78562814,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,40406,883,-0.07260949963885632
+2016,9,Gabon,GAB,Africa,Sub-Saharan Africa,-0.595400581,11.79997877,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,19989125,438472,-0.07680411781863593
+2016,9,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,9929600,277174,-0.3152411959102627
+2016,9,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,245975924,6063808,-0.19948282955601748
+2016,9,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,326143146,8126694,-0.21003914770889795
+2016,9,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,333791254,8196751,-0.19562950428832646
+2016,9,Libya,LBY,Africa,Northern Africa,27.04420762,18.02212777,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,4794662,124176,-0.24717092574527547
+2016,9,Mauritania,MRT,Africa,Sub-Saharan Africa,20.25780429,-10.33010275,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,25562983,548796,-0.0525793829293207
+2016,9,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,571037574,14814051,-0.2487534260408121
+2016,9,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,19221876,453774,-0.15563726094595065
+2016,9,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,66954059,1360993,0.011278066042021242
+2016,9,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,186946481,4278227,-0.12298270797835821
+2016,9,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,125109740,2791691,-0.0956839324279085
+2016,9,Oman,OMN,Asia,Western Asia,20.53707855,56.1036955,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,44624936,1044229,-0.1464844421900752
+2016,9,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,769737,17707,-0.1285118475838231
+2016,9,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1527219800,36502992,-0.16838028675204658
+2016,9,Spain,ESP,Europe,Southern Europe,40.3097875,-3.578125378,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1152789,30864,-0.2779708984238183
+2016,9,United Arab Emirates,ARE,Asia,Western Asia,23.90525867,54.35072869,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,64026423,1495127,-0.1443211756684728
+2016,9,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,25469883,526528,-0.008789241623926879
+2016,9,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,6017972,129989,-0.0595175405739217
+2016,9,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,3743609,84888,-0.11313183048566118
+2016,10,Albania,ALB,Europe,Southern Europe,41.13180899,20.06882519,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,10583901,252298,-0.1656502731160923
+2016,10,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,134068654,2576212,0.0807793601235148
+2016,10,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,66871806,1419329,-0.03951513219772969
+2016,10,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,91912807,1985627,-0.059687260582028855
+2016,10,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,191898254,4427298,-0.13159977234339862
+2016,10,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,78525792,1523173,0.06888851776370254
+2016,10,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2129706220,64466847,-0.38334441882968323
+2016,10,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1196452515,27120563,-0.11275338237217718
+2016,10,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,304906201,7221284,-0.1589768889535658
+2016,10,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,190978201,4619086,-0.1804137528930171
+2016,10,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,237945869,5250515,-0.08338715526129933
+2016,10,Egypt,EGY,Africa,Northern Africa,26.55281781,29.78562814,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,22794606,475492,-0.01939477547061854
+2016,10,Gabon,GAB,Africa,Sub-Saharan Africa,-0.595400581,11.79997877,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,9909696,217374,-0.07680202534952509
+2016,10,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,10549343,278287,-0.26435539096619853
+2016,10,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,349542411,8587021,-0.19603211226384787
+2016,10,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,398322211,9488197,-0.16489782089071414
+2016,10,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,30055072,793845,-0.26552795830453263
+2016,10,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,233183794,5823762,-0.2122923308958347
+2016,10,Malaysia,MYS,Asia,South-eastern Asia,2.745185714,140.4915783,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,13868682,298422,-0.05518578270192735
+2016,10,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,639592020,15896398,-0.2075311272594091
+2016,10,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,24986067,591806,-0.15905593712874116
+2016,10,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,21711390,410047,0.10294209903455095
+2016,10,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,293600406,5411004,0.13496587826661333
+2016,10,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,103327149,2100971,0.01092782241672406
+2016,10,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1261557976,29769486,-0.15520910331320859
+2016,10,United States,USA,Americas,Northern America,45.73643438,-112.404207,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,oil,402,0,-1.1900998321206508
+2016,11,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,317313415,6321928,0.03563776224282127
+2016,11,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,25376841,550823,-0.0650180015616924
+2016,11,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,224170796,4775428,-0.043728409480251966
+2016,11,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,12674972,260534,-0.0020320466985686257
+2016,11,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,158424319,3643743,-0.12832425883801374
+2016,11,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,24170911,521486,-0.058197422850090164
+2016,11,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2546976526,75443177,-0.3656512179053949
+2016,11,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1337313378,28985912,-0.06340879745330205
+2016,11,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,22175461,472321,-0.04354713442178754
+2016,11,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,66232420,1426466,-0.05621794533147656
+2016,11,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,217280603,5323891,-0.1934320460635492
+2016,11,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,130130129,2722380,-0.022785726399571285
+2016,11,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,327966785,7657580,-0.14418351431549514
+2016,11,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2114961,38686,0.14497975165403698
+2016,11,Egypt,EGY,Africa,Northern Africa,26.55281781,29.78562814,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,21248816,524661,-0.20105820221138918
+2016,11,Egypt,EGY,Africa,Northern Africa,26.55281781,29.78562814,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1064197,19680,0.13045231286015846
+2016,11,Equatorial Guinea,GNQ,Africa,Sub-Saharan Africa,1.412936146,10.61572825,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,33000001,647247,0.054995272684135635
+2016,11,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,181357813,4391775,-0.18164881910587022
+2016,11,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,299423822,7201123,-0.1746821088887962
+2016,11,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,246712204,5728550,-0.13836914997425329
+2016,11,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,713797980,17936259,-0.2182435040310195
+2016,11,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,16126945,350586,-0.066747078454649
+2016,11,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,41509496,906320,-0.07162938017038505
+2016,11,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,266708685,5343477,0.02881070806347398
+2016,11,Oman,OMN,Asia,Western Asia,20.53707855,56.1036955,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,37959918,841371,-0.0883161258865838
+2016,11,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1404980680,31254072,-0.09230201538796322
+2016,11,United Arab Emirates,ARE,Asia,Western Asia,23.90525867,54.35072869,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,85217565,1732546,0.011065986719680843
+2016,11,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,9399730,211134,-0.1028838644401259
+2016,12,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,129343806,2770752,-0.05009524329976329
+2016,12,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,38312143,908301,-0.1600333124736832
+2016,12,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,103401481,2248008,-0.06682112760257372
+2016,12,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,17506900,460708,-0.26211235380312686
+2016,12,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,8464206,188215,-0.09187663880348451
+2016,12,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,73655461,1760845,-0.1685902558315177
+2016,12,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,112496645,2299108,0.004820130948213433
+2016,12,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2513727260,71261778,-0.3286695794905669
+2016,12,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1214741151,26784183,-0.08254825658234492
+2016,12,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,44999999,950736,-0.0342239982638181
+2016,12,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,411023527,9528921,-0.1367283077445221
+2016,12,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,219329699,4843902,-0.08434024539452543
+2016,12,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,287613807,6374374,-0.08822869164571859
+2016,12,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,20363504,421029,-0.008965975714318933
+2016,12,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,8651499,277114,-0.42768468936588405
+2016,12,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,353143802,7906643,-0.09936777575210463
+2016,12,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,423961522,9831511,-0.13701152197585628
+2016,12,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,376549247,8580111,-0.11836462955125591
+2016,12,Libya,LBY,Africa,Northern Africa,27.04420762,18.02212777,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,30851698,800567,-0.248990660014401
+2016,12,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,645326125,15197249,-0.15311384753076093
+2016,12,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,15735117,349332,-0.09010606340117742
+2016,12,Mozambique,MOZ,Africa,Sub-Saharan Africa,-17.2617763,35.55202528,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,8598600,168425,0.05665140874143982
+2016,12,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,114110988,2066251,0.1585618158941625
+2016,12,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,312623208,6245796,0.032240210012756496
+2016,12,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,49999999,999888,0.031073349519895835
+2016,12,Oman,OMN,Asia,Western Asia,20.53707855,56.1036955,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,7320728,158251,-0.06039125318317352
+2016,12,Peru,PER,Americas,Latin America and the Caribbean,-9.167216491,-74.37537796,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,7675910,197904,-0.242916775769198
+2016,12,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1322350523,30068180,-0.11611519588312146
+2016,12,United Arab Emirates,ARE,Asia,Western Asia,23.90525867,54.35072869,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,7387555,191780,-0.24938924518863612
+2016,12,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,27587501,517201,0.11250182032608608
+2016,12,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,18006966,416879,-0.13525362668585333
+2017,1,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,286770779,5378604,0.11193902240831273
+2017,1,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,13667293,261598,0.08577098617619981
+2017,1,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,144063069,3019470,-0.02495325912176006
+2017,1,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,116926656,2363967,0.0177994926967678
+2017,1,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,234973962,4448695,0.09976952866750453
+2017,1,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2762047020,77198090,-0.31635799584524577
+2017,1,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,14558945,275370,0.10103589764532468
+2017,1,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1386124951,28892267,-0.018499785527461607
+2017,1,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,48089438,950572,0.04534484583241916
+2017,1,China,CHN,Asia,Eastern Asia,36.67464756,103.8680636,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,5342,224,-0.6077090612295736
+2017,1,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,277856984,5665403,0.007603141842934653
+2017,1,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,137704909,2648205,0.0797619128818611
+2017,1,Denmark,DNK,Europe,Northern Europe,56.06439188,9.942213684,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,28310574,510005,0.16550422432105913
+2017,1,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,362191076,7421285,0.0017382393359643277
+2017,1,Ghana,GHA,Africa,Sub-Saharan Africa,7.956118608,-1.209564758,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,41516825,734431,0.19038535918004057
+2017,1,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,11459759,277476,-0.18152371948536972
+2017,1,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,509655462,11279994,-0.08671646466852527
+2017,1,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,380207588,8122462,-0.04698012855275916
+2017,1,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,184300326,4176080,-0.11235509080044326
+2017,1,Libya,LBY,Africa,Northern Africa,27.04420762,18.02212777,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,78030858,1569302,0.024179135804777856
+2017,1,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,858112082,18916014,-0.08227012005955645
+2017,1,Netherlands,NLD,Europe,Western Europe,52.26998137,5.675062933,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,11082,482,-0.6286257338236892
+2017,1,Netherlands,NLD,Europe,Western Europe,52.26998137,5.675062933,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,664914,7066,1.1079024886231883
+2017,1,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,71229737,1207283,0.25072396989761275
+2017,1,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,436945746,8147284,0.11960454503828663
+2017,1,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,50000000,1049927,-0.027127135290364902
+2017,1,Oman,OMN,Asia,Western Asia,20.53707855,56.1036955,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,686120,14520,-0.036136307943925076
+2017,1,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1884282582,40818949,-0.06279119620917165
+2017,1,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,58230117,1090474,0.11394032751271643
+2017,1,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,18839586,348798,0.1289341600469281
+2017,1,United States,USA,Americas,Northern America,45.73643438,-112.404207,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,oil,400,0,-1.1900998321206508
+2017,2,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,118195910,2172640,0.13843607385896056
+2017,2,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,7610594,150076,0.048314379804283304
+2017,2,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,56584723,1035194,0.14476123601580962
+2017,2,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,151776146,2790733,0.13804015245705067
+2017,2,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,190733893,3593499,0.1060910541352383
+2017,2,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2815812203,74546147,-0.26766200497523795
+2017,2,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1234846621,25114437,0.010637986898647167
+2017,2,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,27642795,561412,0.012327613355170792
+2017,2,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,461903658,9614317,-0.016847076416818797
+2017,2,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,118460976,2281530,0.07786655694254832
+2017,2,Denmark,DNK,Europe,Northern Europe,56.06439188,9.942213684,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,27415173,498467,0.15301516227786696
+2017,2,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,244093176,4889359,0.029064730551387214
+2017,2,Ghana,GHA,Africa,Sub-Saharan Africa,7.956118608,-1.209564758,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,24891127,444688,0.17683487117118588
+2017,2,Greece,GRC,Europe,Southern Europe,39.99547189,22.15714659,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,15984972,293302,0.14083096406203877
+2017,2,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,10530044,253736,-0.17663959134875756
+2017,2,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,376688240,8353745,-0.08891691224505466
+2017,2,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,279003459,6072180,-0.06802048389137101
+2017,2,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,357140684,7340900,-0.0020117571839128765
+2017,2,Libya,LBY,Africa,Northern Africa,27.04420762,18.02212777,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,29194674,616475,-0.033596789753483416
+2017,2,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,671985571,14850970,-0.08509609733414422
+2017,2,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,17847640,349748,0.056089922375913544
+2017,2,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,428473622,7523751,0.20064769196633614
+2017,2,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,18302513,325418,0.1833973449825557
+2017,2,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1923353004,39445801,0.0006398841833715413
+2017,2,Thailand,THA,Asia,South-eastern Asia,15.15949511,101.020107,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,9421938,198954,-0.03359837116444615
+2017,2,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,33495790,615782,0.1382787173622919
+2017,2,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,6385386,118417,0.12673625651516485
+2017,2,Yemen,YEM,Asia,Western Asia,15.96506363,47.50305348,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,7508740,158555,-0.033599549136707284
+2017,3,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,54637909,999413,0.1449814126281563
+2017,3,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,8064312,161130,0.0321205827624403
+2017,3,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,57288220,1028600,0.17002079586107635
+2017,3,Bahamas,BHS,Americas,Latin America and the Caribbean,25.90317684,-78.61665744,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,16678224,347818,-0.019101254157285252
+2017,3,Belize,BLZ,Americas,Latin America and the Caribbean,17.20829609,-88.69988922,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,4525459,82461,0.15010955718637353
+2017,3,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,239181911,4655941,0.06442563477759813
+2017,3,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,134554975,2474363,0.13789066030450278
+2017,3,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,3207937268,82029302,-0.2350732284936978
+2017,3,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1337239159,26582933,0.03837088252900168
+2017,3,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,18086719,341366,0.10379252286177136
+2017,3,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,434451786,8909144,0.0007698177834294933
+2017,3,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,113535915,2171106,0.08695885463182211
+2017,3,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,398937879,8204064,-0.002596454704409457
+2017,3,Ghana,GHA,Africa,Sub-Saharan Africa,7.956118608,-1.209564758,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,39353831,693440,0.19581564707426913
+2017,3,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,11751288,278137,-0.1583240667790534
+2017,3,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,317033577,6559149,-0.009734670331674652
+2017,3,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,673272565,13784528,0.0026727203023460756
+2017,3,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,259524284,5177349,0.034034783661785986
+2017,3,Libya,LBY,Africa,Northern Africa,27.04420762,18.02212777,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,24054726,507940,-0.033597218745770596
+2017,3,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,684800832,15326007,-0.0989261606472412
+2017,3,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,38219069,797450,-0.019697280287356855
+2017,3,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,56793363,1046938,0.13465417375460154
+2017,3,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,486869641,9008760,0.12969461371481425
+2017,3,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,55823333,1010194,0.15938993910018848
+2017,3,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2101472957,40991663,0.06184988602572021
+2017,3,Tunisia,TUN,Africa,Northern Africa,34.10810736,9.557630913,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,34635910,622038,0.16967908999585826
+2017,3,United Arab Emirates,ARE,Asia,Western Asia,23.90525867,54.35072869,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,24360941,514406,-0.03359712633095344
+2017,3,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,10717239,208977,0.06230012557918772
+2017,3,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,30625686,586250,0.08563845163568895
+2017,3,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,8238260,152778,0.12674102431715042
+2017,4,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,73252710,1445071,0.04782173502648837
+2017,4,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,6364222,124715,0.05609299797935653
+2017,4,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,104910974,1958204,0.11824313572320345
+2017,4,Argentina,ARG,Americas,Latin America and the Caribbean,-34.98567234,-65.12225892,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2210,41,0.12623700720105607
+2017,4,Belize,BLZ,Americas,Latin America and the Caribbean,17.20829609,-88.69988922,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,697642,14651,-0.027249104726599513
+2017,4,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,222182753,4353233,0.056299046906312156
+2017,4,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,75714716,1446116,0.08850336259274508
+2017,4,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2760255495,71832704,-0.2517048279790592
+2017,4,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1102098634,22433759,0.00961225064572939
+2017,4,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,298822610,6519877,-0.07083548307949766
+2017,4,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,205110401,4186627,0.006315672531349097
+2017,4,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,249128627,5072860,0.009204428139043349
+2017,4,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,20963860,402146,0.08295208788923476
+2017,4,Egypt,EGY,Africa,Northern Africa,26.55281781,29.78562814,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,25901340,495446,0.08658742932233912
+2017,4,Ghana,GHA,Africa,Sub-Saharan Africa,7.956118608,-1.209564758,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,77958080,1383114,0.18635440168109682
+2017,4,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,10511570,264442,-0.21937582038795664
+2017,4,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,536673555,11285019,-0.028740752129462307
+2017,4,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,525909566,10816229,-0.0027086601607717786
+2017,4,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,159673115,3312853,-0.013067883818425408
+2017,4,Libya,LBY,Africa,Northern Africa,27.04420762,18.02212777,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,34271646,648392,0.10069118448469491
+2017,4,Mauritania,MRT,Africa,Sub-Saharan Africa,20.25780429,-10.33010275,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,27814098,543031,0.06073214820242493
+2017,4,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,682818426,15630471,-0.12327826749017941
+2017,4,Netherlands,NLD,Europe,Western Europe,52.26998137,5.675062933,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,4000,6,15.09038596341177
+2017,4,Netherlands,NLD,Europe,Western Europe,52.26998137,5.675062933,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,839945,15412,0.1408156209219601
+2017,4,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,14926105,277839,0.1218339160309341
+2017,4,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,529139959,9668693,0.1463769160315723
+2017,4,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,17714739,320399,0.16011298062719267
+2017,4,Papua New Guinea,PNG,Oceania,Melanesia,-6.834760878,143.0464597,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,37395014,680899,0.15108805532830144
+2017,4,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1533081182,30596942,0.03351786177907243
+2017,4,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,27592386,510497,0.12984166118248608
+2017,4,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,520105,9644,0.12692039776612707
+2017,5,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,129752174,2505807,0.07441999666890746
+2017,5,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,180579027,3360615,0.12212171841901188
+2017,5,Azerbaijan,AZE,Asia,Western Asia,40.42670781,47.80669468,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,29622921,533073,0.16696255303863994
+2017,5,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,143719552,2921509,0.011243784248295776
+2017,5,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,62204765,1151761,0.12882457102843878
+2017,5,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,3102086762,80795009,-0.2524773213307176
+2017,5,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1264463367,25948938,-0.00010443315203400813
+2017,5,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,47813578,954951,0.03262512046212275
+2017,5,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,429335863,9333094,-0.06671088643701888
+2017,5,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,200379998,4165494,-0.015347073691105042
+2017,5,Denmark,DNK,Europe,Northern Europe,56.06439188,9.942213684,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,12551945,252931,0.021802399785308908
+2017,5,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,oil,4,0,-1.1900998321206508
+2017,5,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,346208588,7264046,-0.02619393190498523
+2017,5,Egypt,EGY,Africa,Northern Africa,26.55281781,29.78562814,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,55182432,1004122,0.1519633838116767
+2017,5,Equatorial Guinea,GNQ,Africa,Sub-Saharan Africa,1.412936146,10.61572825,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,37384565,647462,0.21995715837761445
+2017,5,Ghana,GHA,Africa,Sub-Saharan Africa,7.956118608,-1.209564758,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,37632271,686043,0.14947725007928422
+2017,5,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,9828049,255274,-0.24990177742865344
+2017,5,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,293797344,6633385,-0.10848837301858927
+2017,5,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,583904337,12228759,-0.024047790640610717
+2017,5,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,272389864,5659339,-0.01470479613702927
+2017,5,Libya,LBY,Africa,Northern Africa,27.04420762,18.02212777,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,113249646,2282599,0.021518537806836612
+2017,5,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,947062611,21265974,-0.10254282303195253
+2017,5,Mozambique,MOZ,Africa,Sub-Saharan Africa,-17.2617763,35.55202528,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,7613781,157844,-0.012138806480195908
+2017,5,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,12936077,279129,-0.05833485330218153
+2017,5,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,359832048,6960130,0.07242842803569839
+2017,5,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,36926170,708693,0.0823326305290764
+2017,5,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1830339627,36954249,0.01945600129813723
+2017,5,United Arab Emirates,ARE,Asia,Western Asia,23.90525867,54.35072869,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,53141170,1029020,0.0710477597769416
+2017,5,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,70286789,1400270,0.035702766586831795
+2017,5,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,53586983,1037499,0.07123456274180791
+2017,6,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,224467269,4412648,0.05215975368240509
+2017,6,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,15518495,323302,-0.01790493037766316
+2017,6,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,246377948,4902405,0.0372016707375664
+2017,6,Australia,AUS,Oceania,Australia and New Zealand,-25.40546125,134.2181189,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,33187358,647811,0.0609741165547713
+2017,6,Azerbaijan,AZE,Asia,Western Asia,40.42670781,47.80669468,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,29120427,519173,0.17965947200342378
+2017,6,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,160669214,3416510,-0.04165908865450007
+2017,6,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,59612516,1147317,0.07875705744075541
+2017,6,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2855872702,73889286,-0.24622154862851245
+2017,6,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1205310449,24739909,-0.0003396165019531045
+2017,6,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,8531518,188918,-0.08726216487881165
+2017,6,China,CHN,Asia,Eastern Asia,36.67464756,103.8680636,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,21370,392,0.14120366832779752
+2017,6,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,385894833,8489686,-0.0800666670732293
+2017,6,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,93056462,2024951,-0.06784718913805321
+2017,6,Denmark,DNK,Europe,Northern Europe,56.06439188,9.942213684,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,11876448,254096,-0.04867488073192709
+2017,6,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,303938555,6723731,-0.08618877573124077
+2017,6,Equatorial Guinea,GNQ,Africa,Sub-Saharan Africa,1.412936146,10.61572825,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,21387244,473588,-0.08725921280306036
+2017,6,Equatorial Guinea,GNQ,Africa,Sub-Saharan Africa,1.412936146,10.61572825,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,70667511,1290731,0.14693485098659365
+2017,6,Gabon,GAB,Africa,Sub-Saharan Africa,-0.595400581,11.79997877,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,28684027,549134,0.085517487510355
+2017,6,Germany,DEU,Europe,Western Europe,51.08227882,10.37515859,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2818,123,-0.6306070397815
+2017,6,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,404041482,8965444,-0.08954224537310074
+2017,6,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,631843069,13387702,-0.03754443726721234
+2017,6,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,183721824,3806298,-0.011363742896433179
+2017,6,Libya,LBY,Africa,Northern Africa,27.04420762,18.02212777,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,31250000,657555,-0.029515893643136
+2017,6,Libya,LBY,Africa,Northern Africa,27.04420762,18.02212777,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,60000000,1230594,0.0005802147493306241
+2017,6,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,977474067,22484379,-0.12844591697617602
+2017,6,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,213288,4723,-0.08727358153071249
+2017,6,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,13160079,279673,-0.04097668172223267
+2017,6,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,448119735,8857481,0.04539934315817608
+2017,6,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,16369878,328983,0.025052164731460134
+2017,6,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,136747792,2494391,0.14869618175192698
+2017,6,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1607510767,32867886,0.004275258278025674
+2017,6,United Arab Emirates,ARE,Asia,Western Asia,23.90525867,54.35072869,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,22802754,419553,0.13716959246701782
+2017,6,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,9465017,203076,-0.05189240123536979
+2017,6,United States,USA,Americas,Northern America,45.73643438,-112.404207,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,34487800,675054,0.05752955312666948
+2017,7,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,130727486,2769536,-0.037393939016897866
+2017,7,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,15519034,322613,-0.015360689878778857
+2017,7,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,306009929,6222738,0.01081613984612281
+2017,7,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,227966242,4965115,-0.06885656844743071
+2017,7,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,180656535,3698305,0.0028153622471497283
+2017,7,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2649789475,70044988,-0.26626799616783114
+2017,7,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1132716302,24602609,-0.06575738951147393
+2017,7,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,441405026,9940299,-0.10568251390875112
+2017,7,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,145246941,3172036,-0.07187918781126923
+2017,7,Denmark,DNK,Europe,Northern Europe,56.06439188,9.942213684,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,26571578,517280,0.06434127770540597
+2017,7,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,252577682,5707481,-0.1093899627221793
+2017,7,Ghana,GHA,Africa,Sub-Saharan Africa,7.956118608,-1.209564758,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,10262324,224278,-0.0726766779694313
+2017,7,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,9612372,249672,-0.24990177742865344
+2017,7,India,IND,Asia,Southern Asia,22.37137039,79.32792202,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,53299039,855242,0.33181018987609734
+2017,7,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,272650262,6043431,-0.08835513172466881
+2017,7,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,527660037,11768777,-0.09518210142757039
+2017,7,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,294344865,6253559,-0.04065579706307604
+2017,7,Libya,LBY,Africa,Northern Africa,27.04420762,18.02212777,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,96038038,2002830,-0.019097365493575935
+2017,7,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,693699256,16477431,-0.16198802722102099
+2017,7,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,48027411,948976,0.04582644406815303
+2017,7,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,12697329,272726,-0.05314176197496312
+2017,7,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,345118616,6885678,0.033897004260997086
+2017,7,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,16142607,323047,0.030200080738912536
+2017,7,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,29904162,571017,0.08881380267910227
+2017,7,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1183211195,25114427,-0.03957071274362247
+2017,7,United Arab Emirates,ARE,Asia,Western Asia,23.90525867,54.35072869,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,44651627,899653,0.021951112722936525
+2017,7,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,26528991,526996,0.03924022305616492
+2017,7,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2047,91,-0.6407676163494168
+2017,7,United States,USA,Americas,Northern America,45.73643438,-112.404207,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,oil,1974,2,22.9131593881651
+2017,8,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,161438906,3132694,0.06838750305123034
+2017,8,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,138768103,2747906,0.04313674680407231
+2017,8,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,12359085,243261,0.050616360291683045
+2017,8,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,170496305,3513036,-0.00490161393703548
+2017,8,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,208223493,4332763,-0.01649088325269584
+2017,8,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,231230802,4535581,0.05490597445095603
+2017,8,Brunei Darussalam,BRN,Asia,South-eastern Asia,4.439247073,114.4374636,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,7714419,158537,-0.0017858522583590205
+2017,8,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,oil,10,0,-1.1900998321206508
+2017,8,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,3030485123,80120956,-0.2664132126317278
+2017,8,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1196273577,25983326,-0.06576831017157884
+2017,8,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,409665952,8784618,-0.05125223867106642
+2017,8,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,231390425,4672075,0.01936765098954435
+2017,8,Congo,COG,Africa,Sub-Saharan Africa,-0.83949506,15.22629207,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,50000000,951857,0.09269415338865537
+2017,8,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,314968633,6519623,-0.01031328105901017
+2017,8,Equatorial Guinea,GNQ,Africa,Sub-Saharan Africa,1.412936146,10.61572825,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,48324528,1002355,-0.012752298043688806
+2017,8,Gabon,GAB,Africa,Sub-Saharan Africa,-0.595400581,11.79997877,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,32071075,647508,0.019459001866624092
+2017,8,Ghana,GHA,Africa,Sub-Saharan Africa,7.956118608,-1.209564758,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,17959462,392494,-0.07267345368019962
+2017,8,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,10803838,266773,-0.2011032071085615
+2017,8,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,287353524,6467767,-0.10512221176616407
+2017,8,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,364811772,7778186,-0.044721037099097104
+2017,8,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,282027392,6176868,-0.07508257351797683
+2017,8,Libya,LBY,Africa,Northern Africa,27.04420762,18.02212777,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,130747944,2678370,0.0020282411592182493
+2017,8,Mauritania,MRT,Africa,Sub-Saharan Africa,20.25780429,-10.33010275,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,6253769,137313,-0.07788470274789301
+2017,8,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,706612136,15840808,-0.10076251645795004
+2017,8,Netherlands,NLD,Europe,Western Europe,52.26998137,5.675062933,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,734975,13486,0.1408081518150723
+2017,8,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,36925860,707159,0.08508214085392526
+2017,8,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,551595479,10808721,0.056149704814302266
+2017,8,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,251443251,4835860,0.07966964309823264
+2017,8,Peru,PER,Americas,Latin America and the Caribbean,-9.167216491,-74.37537796,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,23012980,479377,-0.017757936276028386
+2017,8,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1163306445,24698491,-0.039876076324771324
+2017,8,Thailand,THA,Asia,South-eastern Asia,15.15949511,101.020107,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,29117679,568417,0.06087425739032263
+2017,8,Tunisia,TUN,Africa,Northern Africa,34.10810736,9.557630913,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,14764307,296210,0.02712826818511155
+2017,8,United States,USA,Americas,Northern America,45.73643438,-112.404207,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,oil,725,0,-1.1900998321206508
+2017,9,Algeria,DZA,Africa,Northern Africa,28.16474462,2.63351219,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,87998992,1675706,0.09234440864458894
+2017,9,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,82777564,1500680,0.15694846087729938
+2017,9,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,5290948,120205,-0.115196079045895
+2017,9,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,196759719,3880157,0.04825617137835101
+2017,9,Azerbaijan,AZE,Asia,Western Asia,40.42670781,47.80669468,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,21750393,375330,0.225082664417387
+2017,9,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,240358157,4712394,0.05549239580389824
+2017,9,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,84562690,1633134,0.0743907179906796
+2017,9,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2755900304,71893082,-0.2539722972103624
+2017,9,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1091374625,23160520,-0.03934140269525215
+2017,9,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,104745118,1902253,0.15459622493671812
+2017,9,China,CHN,Asia,Eastern Asia,36.67464756,103.8680636,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,4795,88,0.14055237338351909
+2017,9,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,322175235,6502287,0.019898127925519097
+2017,9,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,198846160,3915867,0.04997500317489188
+2017,9,Denmark,DNK,Europe,Northern Europe,56.06439188,9.942213684,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,35000000,630039,0.16652333607282954
+2017,9,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,349617879,7025253,0.0252191563037532
+2017,9,Ghana,GHA,Africa,Sub-Saharan Africa,7.956118608,-1.209564758,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,11688,255,-0.07076854989604522
+2017,9,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,10894742,276818,-0.22897180372117623
+2017,9,India,IND,Asia,Southern Asia,22.37137039,79.32792202,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,22317469,358571,0.3298470000830208
+2017,9,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,172204716,3808100,-0.08577887176179934
+2017,9,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,483227309,10460899,-0.06201676676634572
+2017,9,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,182150482,4021790,-0.08406309169522432
+2017,9,Libya,LBY,Africa,Northern Africa,27.04420762,18.02212777,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,72561732,1373273,0.100255669435009
+2017,9,Mauritania,MRT,Africa,Sub-Saharan Africa,20.25780429,-10.33010275,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,17334264,380607,-0.07788865827988194
+2017,9,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,542360718,11516718,-0.040046149449889136
+2017,9,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,17792844,348605,0.056337298747198034
+2017,9,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,29964576,584332,0.062196432512687076
+2017,9,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,34155789,584538,0.2368548850654924
+2017,9,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,355787737,6789415,0.08962688920654566
+2017,9,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,35179064,656347,0.11880898840902178
+2017,9,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,73033933,1424433,0.062006699529170504
+2017,9,Oman,OMN,Asia,Western Asia,20.53707855,56.1036955,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,71865758,1353847,0.10621664858673763
+2017,9,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,744314917,15231489,0.003264299937094118
+2017,9,United Arab Emirates,ARE,Asia,Western Asia,23.90525867,54.35072869,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,44651627,994555,-0.09370469190078579
+2017,9,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,oil,15519426,295434,0.09274402411026647
+2017,9,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,58998364,1114958,0.10213094302287659
+2017,9,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2647,49,0.129117899535706
+2017,10,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,103481426,1854675,0.17245254451766004
+2017,10,Angola,AGO,Africa,Sub-Saharan Africa,-12.3755731,17.59867248,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,161137000,2968891,0.13533884496519102
+2017,10,Azerbaijan,AZE,Asia,Western Asia,40.42670781,47.80669468,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,39540003,682312,0.22508220453591388
+2017,10,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,235593749,4599721,0.06070886392115167
+2017,10,Brazil,BRA,Americas,Latin America and the Caribbean,-10.77518961,-53.09141767,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,62083888,1132242,0.14895470310515657
+2017,10,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,3079681350,78641592,-0.2337603074813013
+2017,10,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,14999999,274932,0.14226928452910548
+2017,10,Canada,CAN,Americas,Northern America,61.4126317,-98.23039804,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1211645152,24596151,0.012903740655536197
+2017,10,Chad,TCD,Africa,Sub-Saharan Africa,15.35740495,18.66399556,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,65006820,1166070,0.17132265060688648
+2017,10,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,351294948,6877652,0.057255895740318405
+2017,10,Colombia,COL,Americas,Latin America and the Caribbean,3.897367041,-73.07080696,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,19780900,359652,0.15304296205057832
+2017,10,Denmark,DNK,Europe,Northern Europe,56.06439188,9.942213684,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,70184571,1231036,0.2021895622159527
+2017,10,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,324314926,6087256,0.11098013215770755
+2017,10,Ecuador,ECU,Americas,Latin America and the Caribbean,-1.464036749,-78.05190165,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,14678672,254264,0.21970991872854223
+2017,10,Egypt,EGY,Africa,Northern Africa,26.55281781,29.78562814,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,25826913,447451,0.21946688101313924
+2017,10,Equatorial Guinea,GNQ,Africa,Sub-Saharan Africa,1.412936146,10.61572825,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,54089254,1043968,0.07516787451108295
+2017,10,Gabon,GAB,Africa,Sub-Saharan Africa,-0.595400581,11.79997877,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,38802583,629197,0.31592666203332914
+2017,10,Ghana,GHA,Africa,Sub-Saharan Africa,7.956118608,-1.209564758,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,51260989,991182,0.07286772067910298
+2017,10,Guatemala,GTM,Americas,Latin America and the Caribbean,15.699081,-90.35850945,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,10388975,238827,-0.12779808283576194
+2017,10,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,253227093,5421405,-0.04943793064940829
+2017,10,Iraq,IRQ,Asia,Western Asia,33.04497404,43.77207391,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,771279601,15304289,0.040614635091554996
+2017,10,Kuwait,KWT,Asia,Western Asia,29.29832118,47.53304536,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,109809283,2303530,-0.025963611559750913
+2017,10,Libya,LBY,Africa,Northern Africa,27.04420762,18.02212777,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,274568510,4974205,0.1578870502923684
+2017,10,Mauritania,MRT,Africa,Sub-Saharan Africa,20.25780429,-10.33010275,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,3451686,75787,-0.07786834993429718
+2017,10,Mexico,MEX,Americas,Latin America and the Caribbean,23.93832004,-102.5023164,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,801878561,16890902,-0.030750332422309196
+2017,10,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,1516003,22267,0.4725353662099195
+2017,10,Nigeria,NGA,Africa,Sub-Saharan Africa,9.590667555,8.10605344,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,850444852,14887246,0.20495221439651629
+2017,10,Norway,NOR,Europe,Northern Europe,64.41197955,14.06269622,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,101973952,1747718,0.23477432696877745
+2017,10,Oman,OMN,Asia,Western Asia,20.53707855,56.1036955,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,94534493,1803053,0.0902847188113177
+2017,10,Saudi Arabia,SAU,Asia,Western Asia,24.12628999,44.54637538,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,953985166,18599685,0.06244895654525727
+2017,10,Singapore,SGP,Asia,South-eastern Asia,1.344965221,103.8094495,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,2543,11,4.455528628521025
+2017,10,United Arab Emirates,ARE,Asia,Western Asia,23.90525867,54.35072869,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,80906276,1537256,0.09517094631907465
+2017,10,United Kingdom,GBR,Europe,Northern Europe,53.75504855,-2.103843405,United States,USA,Americas,Northern America,45.73643438,-112.404207,oil,51107208,978963,0.08479539971138103
